@@ -1,4 +1,4 @@
-<h1 align="center">my name is Osama</h1>
+<h1 align="center">sup</h1>
 <h4 align="center">Im a human trying to be better at programming everyday</h4>
 
 <br/>
