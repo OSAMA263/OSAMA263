@@ -5,7 +5,7 @@
 <br/>
 
 
-<img align="right" alt="Coding,,," width="350" src="https://i.stack.imgur.com/E3qpe.gif">
+<!--<img align="right" alt="Coding,,," width="350" src="https://i.stack.imgur.com/E3qpe.gif">-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
