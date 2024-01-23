@@ -1,9 +1,7 @@
 <h1 align="center">sup</h1>
-<h4 align="center">Im a human trying to be better at programming everyday</h4>
 
-<br/>
-<br/>
 
+<h4>get in touch: <a herf="https://wa.me/201121451306">01121451306</a></h4>
 
 <!--<img align="right" alt="Coding,,," width="350" src="https://i.stack.imgur.com/E3qpe.gif">-->
 
