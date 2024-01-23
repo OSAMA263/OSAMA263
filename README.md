@@ -1,7 +1,7 @@
 <h1 align="center">sup</h1>
 
 
-<h4>get in touch: <a herf="https://wa.me/201121451306">01121451306</a></h4>
+<h4>get in touch: <a href="https://wa.me/201121451306">01121451306</a></h4>
 
 <!--<img align="right" alt="Coding,,," width="350" src="https://i.stack.imgur.com/E3qpe.gif">-->
 
