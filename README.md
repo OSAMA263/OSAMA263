@@ -29,9 +29,21 @@
                 height="40"
               />
             </a>
+          <a
+              href="https://jquery.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico"
+                alt="jquery"
+                width="40"
+                height="40"
+              />
+            </a>
           </div>
           <div >
-                         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react"
@@ -99,6 +111,30 @@
               <img
                 src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"
                 alt="framer-motion"
+                width="40"
+                height="40"
+              />
+            </a>
+            <a
+              href="https://swiperjs.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                src="https://swiperjs.com/images/swiper-logo.svg"
+                alt="swiper"
+                width="40"
+                height="40"
+              />
+            </a>
+            <a
+              href="https://formik.org/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                src="https://formik.org/images/favicon.png"
+                alt="formik"
                 width="40"
                 height="40"
               />
