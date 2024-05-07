@@ -29,6 +29,22 @@
                 height="40"
               />
             </a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png"
+                alt="typescript"
+                width="46"
+                height="46"
+              />
+            </a>
+            <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+                alt="sass"
+                width="40"
+                height="40"
+              />
+            </a>
           <a
               href="https://jquery.com/"
               target="_blank"
@@ -55,14 +71,6 @@
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                 alt="redux"
-                width="40"
-                height="40"
-              />
-            </a>
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-              <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-                alt="sass"
                 width="40"
                 height="40"
               />
