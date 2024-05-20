@@ -1,7 +1,4 @@
 <h1 align="center">sup</h1>
-
-
-<h4>contact: <a href="https://wa.me/201121451306">01121451306</a></h4>
      <h3 align="left">Languages and Tools:</h3>
         <div align="left">
           <div >
