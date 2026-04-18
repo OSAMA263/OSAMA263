@@ -1,5 +1,5 @@
 <h1 align="center">sup</h1>
-<small align="">i know how to exit vim</h1>
+<!-- <h1 align="">i know how to exit vim</h1> -->
 
 <!-- i also know how to exit vim -->
 
